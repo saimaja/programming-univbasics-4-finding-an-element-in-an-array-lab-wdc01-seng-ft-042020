@@ -6,7 +6,7 @@ while i < array.length do
   if array[i]  === value_to_find
     found_value = i
   end
-  i+= 
+  i+= 1
 end
 found_value
 end
